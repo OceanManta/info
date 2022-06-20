@@ -5,8 +5,15 @@ my personal info and portfolio
 
 Developed Apps 
 
-Medi-Zim & Zim Dealers
+Medi-Zim & Zim Dealers on Android
 https://play.google.com/store/apps/dev?id=8216229728621531223 
+
+Tumai Mobile on Appstore
+https://apps.apple.com/zw/app/tumai-mobile-app/id1601235263
+
+Tumai On Android
+https://play.google.com/store/apps/details?id=com.intelliafricasolutions.tumai
+
 
 Zim Dealers on Apple Appstore
 https://apps.apple.com/nz/app/zim-dealers-buy-sell-market/id1598559357
